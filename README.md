@@ -1,1 +1,1 @@
-Este proyecto es el chema/prototipo de una base de datos basada en la primera y segunda generacion del juego pokemon TCG en linea. todos los datos son ficticios o basados en las reglas del juego y sus cartas de primera y segunda generacion. 
+Este proyecto es el esquema/prototipo de una base de datos basada en la primera y segunda generacion del juego pokemon TCG en linea. todos los datos son ficticios o basados en las reglas del juego y sus cartas de primera y segunda generacion. 
